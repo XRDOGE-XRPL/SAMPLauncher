@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SA-MP Launcher</string>
+    
+    <!-- Server Info -->
+    <string name="server_name_placeholder">SA-MP Server</string>
+    <string name="server_ip_placeholder">127.0.0.1:7777</string>
+    <string name="players_online_placeholder">Spieler: 0/100</string>
+    <string name="query_server">Server abfragen</string>
+    
+    <!-- Login -->
+    <string name="login_title">Login</string>
+    <string name="username_hint">Benutzername</string>
+    <string name="password_hint">Passwort</string>
+    <string name="connect_button">Verbinden</string>
+    <string name="login_button">Anmelden</string>
+    
+    <!-- GTA Status -->
+    <string name="gta_status_title">GTA:SA Status</string>
+    <string name="checking_gta">GTA:SA Installation wird geprüft...</string>
+    
+    <!-- Server List -->
+    <string name="server_list_title">Server Liste</string>
+    
+    <!-- Game Controls -->
+    <string name="game_controls_title">Spiel</string>
+    <string name="game_status_placeholder">Verbunden mit Server</string>
+    
+    <!-- Settings -->
+    <string name="settings">Einstellungen</string>
+</resources>

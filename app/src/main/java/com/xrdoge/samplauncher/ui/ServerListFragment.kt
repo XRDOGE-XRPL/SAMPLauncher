@@ -1,0 +1,27 @@
+package com.xrdoge.samplauncher.ui
+
+import android.os.Bundle
+import android.view.LayoutInflater
+import android.view.View
+import android.view.ViewGroup
+import androidx.fragment.app.Fragment
+import com.xrdoge.samplauncher.R
+
+/**
+ * Fragment for displaying server list
+ */
+class ServerListFragment : Fragment() {
+    
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        return inflater.inflate(R.layout.fragment_server_list, container, false)
+    }
+    
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+        // Initialize server list RecyclerView here
+    }
+}
